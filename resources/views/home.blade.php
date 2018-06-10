@@ -31,6 +31,9 @@
                     <h6>git commit 8</h6>
                     <h6>git commit 9</h6>
                 </div>
+                <div class="row">
+                    <h6>anather user 1</h6>
+                </div>
             </div>
         </div>
     </div>
