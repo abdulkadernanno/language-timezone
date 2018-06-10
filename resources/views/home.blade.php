@@ -24,6 +24,7 @@
                     <h6>git commit 1</h6>
                     <h6>git commit 2</h6>
                     <h6>git commit 3</h6>
+                    <h6>git commit 4</h6>
                 </div>
             </div>
         </div>
