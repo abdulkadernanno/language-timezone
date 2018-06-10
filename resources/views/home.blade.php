@@ -18,6 +18,11 @@
                 <div class="card-footer">
                     <h6 class="float-right text-info">{{__('home.copy')}}</h6>
                 </div>
+                <div class="alert-dark">
+                    <h2>git commit chack</h2>
+                    <hr>
+                    <h6>git commit 1</h6>
+                </div>
             </div>
         </div>
     </div>
