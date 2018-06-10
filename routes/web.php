@@ -17,8 +17,13 @@
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
 
+
+
+Route::get('/home/{lang?}', function ($lang=null) {
+    \App::setLocale($lang);
+    return view('home');
+});
 
 Route::get('/{lang?}', function ($lang=null) {
     \App::setLocale($lang);
